@@ -1,0 +1,23 @@
+{
+  "name": "sw-bravo",
+  "version": "1.0.0",
+  "description": "swimspy using hapi js",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^13.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swimspy/sw-bravo.git"
+  },
+  "author": "ai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swimspy/sw-bravo/issues"
+  },
+  "homepage": "https://github.com/swimspy/sw-bravo#readme"
+}
